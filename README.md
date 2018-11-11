@@ -15,6 +15,8 @@ image:
 
 http://image.noelshack.com/fichiers/2018/45/7/1541957557-whitelistscreen.png
 
+Entre le steam id sous le format : 
+steam:11000010xxxxxxx
 Enjoy.
 
 Codé By Flis for SunnyIsland.
