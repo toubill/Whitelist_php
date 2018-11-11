@@ -13,7 +13,7 @@ Uploadez les fichiers dans votre dossier : /var/www/html/whitelist/
 Accedez à votre URL : IP_du_serveur/Nom_du_dossier/Whitelistindex.php
 image:
 
-http://image.noelshack.com/fichiers/2018/45/7/1541957557-whitelistscreen.png
+https://cdn.discordapp.com/attachments/451481601139015690/511237387184242699/unknown.png
 
 Entre le steam id sous le format : 
 steam:11000010xxxxxxx
